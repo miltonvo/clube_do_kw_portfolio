@@ -113,8 +113,6 @@
 |:------------------------:|:------------------------:|:------------------------:|
 | Gestão de Cargos | Distribuidoras | Tela de Login |
 
-### Vídeo Demonstração 🎥
-
 🔗 **Veja o sistema em ação** ⬇️
 
 [![Assista ao vídeo](assets/thumb.png)](https://youtu.be/FgPU_O7AaJI)

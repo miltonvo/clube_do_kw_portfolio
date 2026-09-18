@@ -113,8 +113,6 @@
 |:------------------------:|:------------------------:|:------------------------:|
 | Roles Management | Distributors | Login Screen |
 
-### Video Demonstration 🎥
-
 🔗 **Watch the system in action** ⬇️
 
 
