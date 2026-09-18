@@ -117,7 +117,6 @@
 
 🔗 **Watch the system in action** ⬇️
 
-[![Watch the video](assets/thumb.png)](https://youtu.be/FgPU_O7AaJI)
 
 ---
 
