@@ -118,3 +118,7 @@
 🔗 **Veja o sistema em ação** ⬇️
 
 [![Assista ao vídeo](assets/thumb.png)](https://youtu.be/FgPU_O7AaJI)
+
+---
+
+📄 Case completo no site da MV Dev Solutions: [https://mvdevsolutions.com.br/projetos/clube-do-kw](https://mvdevsolutions.com.br/projetos/clube-do-kw)

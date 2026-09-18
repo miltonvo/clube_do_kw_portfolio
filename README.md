@@ -118,3 +118,7 @@
 🔗 **Watch the system in action** ⬇️
 
 [![Watch the video](assets/thumb.png)](https://youtu.be/FgPU_O7AaJI)
+
+---
+
+📄 Full case study on the MV Dev Solutions website: [https://mvdevsolutions.com.br/en/projects/clube-do-kw-photovoltaic-energy-management-system](https://mvdevsolutions.com.br/en/projects/clube-do-kw-photovoltaic-energy-management-system)
