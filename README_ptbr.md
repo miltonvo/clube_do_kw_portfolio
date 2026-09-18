@@ -103,15 +103,15 @@
 
 Telas capturadas do sistema em produção em setembro de 2026 (tema escuro). Nomes, valores e identificadores estão borrados para proteger os dados do cliente.
 
-| ![Dashboard em tempo real (tema escuro)](assets/1.png) | ![Faturas dos consumidores com filtros e exportação](assets/2.png) | ![Cadastro de consórcios, unidades e usinas](assets/3.png) |
+| ![Dashboard em tempo real (tema escuro)](assets/v2/1.png) | ![Faturas dos consumidores com filtros e exportação](assets/v2/2.png) | ![Cadastro de consórcios, unidades e usinas](assets/v2/3.png) |
 |:------------------------:|:------------------------:|:------------------------:|
 | Dashboard em tempo real (tema escuro) | Faturas dos consumidores com filtros e exportação | Cadastro de consórcios, unidades e usinas |
 
-| ![Visão geral financeira das faturas](assets/4.png) | ![Contas a pagar assumidas pelo consórcio](assets/5.png) | ![Tabelas de desconto por bandeira tarifária](assets/6.png) |
+| ![Visão geral financeira das faturas](assets/v2/4.png) | ![Contas a pagar assumidas pelo consórcio](assets/v2/5.png) | ![Tabelas de desconto por bandeira tarifária](assets/v2/6.png) |
 |:------------------------:|:------------------------:|:------------------------:|
 | Visão geral financeira das faturas | Contas a pagar assumidas pelo consórcio | Tabelas de desconto por bandeira tarifária |
 
-| ![Faturas das usinas geradoras](assets/7.png) | ![Demonstrativo de compensação por distribuidora](assets/8.png) |
+| ![Faturas das usinas geradoras](assets/v2/7.png) | ![Demonstrativo de compensação por distribuidora](assets/v2/8.png) |
 |:------------------------:|:------------------------:|
 | Faturas das usinas geradoras | Demonstrativo de compensação por distribuidora |
 

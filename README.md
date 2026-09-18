@@ -103,15 +103,15 @@
 
 Screenshots taken from the production system in September 2026 (dark theme). Names, amounts and identifiers are blurred to protect client data.
 
-| ![Real-time dashboard (dark theme)](assets/1.png) | ![Consumer invoices with filters and export](assets/2.png) | ![Consortia, units and plants registry](assets/3.png) |
+| ![Real-time dashboard (dark theme)](assets/v2/1.png) | ![Consumer invoices with filters and export](assets/v2/2.png) | ![Consortia, units and plants registry](assets/v2/3.png) |
 |:------------------------:|:------------------------:|:------------------------:|
 | Real-time dashboard (dark theme) | Consumer invoices with filters and export | Consortia, units and plants registry |
 
-| ![Financial overview of invoices](assets/4.png) | ![Payables taken over by the consortium](assets/5.png) | ![Discount tables by tariff flag](assets/6.png) |
+| ![Financial overview of invoices](assets/v2/4.png) | ![Payables taken over by the consortium](assets/v2/5.png) | ![Discount tables by tariff flag](assets/v2/6.png) |
 |:------------------------:|:------------------------:|:------------------------:|
 | Financial overview of invoices | Payables taken over by the consortium | Discount tables by tariff flag |
 
-| ![Generating plants' invoices](assets/7.png) | ![Compensation statement per utility](assets/8.png) |
+| ![Generating plants' invoices](assets/v2/7.png) | ![Compensation statement per utility](assets/v2/8.png) |
 |:------------------------:|:------------------------:|
 | Generating plants' invoices | Compensation statement per utility |
 
