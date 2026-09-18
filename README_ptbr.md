@@ -101,20 +101,19 @@
 
 ## Demonstração 📺
 
-| ![Dashboard](assets/1.png) | ![Dashboard 2](assets/2.png) | ![Financeiro](assets/3.png) |
+Telas capturadas do sistema em produção em setembro de 2026 (tema escuro). Nomes, valores e identificadores estão borrados para proteger os dados do cliente.
+
+| ![Dashboard em tempo real (tema escuro)](assets/1.png) | ![Faturas dos consumidores com filtros e exportação](assets/2.png) | ![Cadastro de consórcios, unidades e usinas](assets/3.png) |
 |:------------------------:|:------------------------:|:------------------------:|
-| Dashboard Principal | Dashboard Analytics | Sistema Financeiro |
+| Dashboard em tempo real (tema escuro) | Faturas dos consumidores com filtros e exportação | Cadastro de consórcios, unidades e usinas |
 
-| ![Consumidores](assets/4.png) | ![Edição de Consumidores](assets/5.png) | ![Painel Admin](assets/6.png) |
+| ![Visão geral financeira das faturas](assets/4.png) | ![Contas a pagar assumidas pelo consórcio](assets/5.png) | ![Tabelas de desconto por bandeira tarifária](assets/6.png) |
 |:------------------------:|:------------------------:|:------------------------:|
-| Gestão de Consumidores | Edição de Consumidores | Painel Administrativo |
+| Visão geral financeira das faturas | Contas a pagar assumidas pelo consórcio | Tabelas de desconto por bandeira tarifária |
 
-| ![Cargos](assets/7.png) | ![Distribuidoras](assets/8.png) | ![Login](assets/9.png) |
-|:------------------------:|:------------------------:|:------------------------:|
-| Gestão de Cargos | Distribuidoras | Tela de Login |
-
-🔗 **Veja o sistema em ação** ⬇️
-
+| ![Faturas das usinas geradoras](assets/7.png) | ![Demonstrativo de compensação por distribuidora](assets/8.png) |
+|:------------------------:|:------------------------:|
+| Faturas das usinas geradoras | Demonstrativo de compensação por distribuidora |
 
 ---
 

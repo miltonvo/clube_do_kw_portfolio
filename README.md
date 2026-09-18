@@ -101,20 +101,19 @@
 
 ## Demonstration 📺
 
-| ![Dashboard](assets/1.png) | ![Dashboard 2](assets/2.png) | ![Financial](assets/3.png) |
+Screenshots taken from the production system in September 2026 (dark theme). Names, amounts and identifiers are blurred to protect client data.
+
+| ![Real-time dashboard (dark theme)](assets/1.png) | ![Consumer invoices with filters and export](assets/2.png) | ![Consortia, units and plants registry](assets/3.png) |
 |:------------------------:|:------------------------:|:------------------------:|
-| Main Dashboard | Analytics Dashboard | Financial System |
+| Real-time dashboard (dark theme) | Consumer invoices with filters and export | Consortia, units and plants registry |
 
-| ![Consumers](assets/4.png) | ![Edit Consumers](assets/5.png) | ![Admin Panel](assets/6.png) |
+| ![Financial overview of invoices](assets/4.png) | ![Payables taken over by the consortium](assets/5.png) | ![Discount tables by tariff flag](assets/6.png) |
 |:------------------------:|:------------------------:|:------------------------:|
-| Consumers Management | Edit Consumers | Administrative Panel |
+| Financial overview of invoices | Payables taken over by the consortium | Discount tables by tariff flag |
 
-| ![Roles](assets/7.png) | ![Distributors](assets/8.png) | ![Login](assets/9.png) |
-|:------------------------:|:------------------------:|:------------------------:|
-| Roles Management | Distributors | Login Screen |
-
-🔗 **Watch the system in action** ⬇️
-
+| ![Generating plants' invoices](assets/7.png) | ![Compensation statement per utility](assets/8.png) |
+|:------------------------:|:------------------------:|
+| Generating plants' invoices | Compensation statement per utility |
 
 ---
 
